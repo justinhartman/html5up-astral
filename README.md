@@ -26,6 +26,6 @@ Other:
 
 [html5up]: https://html5up.net
 [justin]: http://justin.hartman.me
-[license]: LICENCE.txt
+[license]: LICENSE.txt
 [twitter]: https://twitter.com/ajlkn
 
